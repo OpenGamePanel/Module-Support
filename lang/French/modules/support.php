@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) Copyright (C) 2008 - 2013 The OGP Development Team
+ * Copyright (C) 2008 - 2016 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,15 +22,14 @@
  *
  */
 
-// add_game_home.php
-define('support_email_content', "Vous avez reçu une demande de support de %s (%s).<br><br>Serveur: %s.<br><br>%s");
-define('message_has_been_sent', "Merci de nous avoir contacté! Votre message a bien été envoyé et une réponse vous sera apportée par email dans les meilleurs délais.");
-define('please_describe_your_issue_below', "Veuillez utiliser le formulaire suivant pour tout problème technique avec votre serveur.<br>Une réponse sera apportée dans les meilleurs délais.");
+define('support_email_content', "Vous avez reÃ§u une demande de support de %s (%s).<br><br>Serveur: %s.<br><br>%s");
+define('message_has_been_sent', "Merci de nous avoir contactÃ©! Votre message a bien Ã©tÃ© envoyÃ© et une rÃ©ponse vous sera apportÃ©e par email dans les meilleurs dÃ©lais.");
+define('please_describe_your_issue_below', "Veuillez utiliser le formulaire suivant pour tout problÃ¨me technique avec votre serveur.<br>Une rÃ©ponse sera apportÃ©e dans les meilleurs dÃ©lais.");
 define('select_server', "Choisissez un serveur");
 define('email_address', "Adresse email");
 define('subject', "Sujet");
 define('message', "Message");
-define('email_must_be_filled_out', "Veuillez indiquer un email.");
+define('email_must_be_filled_out', "Veuillez indiquer un e-mail.");
 define('subject_must_be_filled_out', "Veuillez indiquer un sujet.");
 define('message_must_be_filled_out', "Veuillez indiquer un message.");
 define('send', "Envoyer");

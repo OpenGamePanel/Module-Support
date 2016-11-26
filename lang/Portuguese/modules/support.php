@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) Copyright (C) 2008 - 2013 The OGP Development Team
+ * Copyright (C) 2008 - 2016 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,11 +22,10 @@
  *
  */
 
-// add_game_home.php
 define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
 define('message_has_been_sent', "Thank you for contacting us! Your message has been received and we will respond to it by email.");
 define('please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
-define('select_server', "Select server");
+define('select_server', "Choose a server");
 define('email_address', "Email address");
 define('subject', "Subject");
 define('message', "Message");
