@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) Copyright (C) 2008 - 2013 The OGP Development Team
+ * Copyright (C) 2008 - 2016 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,18 +22,17 @@
  *
  */
 
-// add_game_home.php
 define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
-define('message_has_been_sent', "Thank you for contacting us! Your message has been received and we will respond to it by email.");
-define('please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
-define('select_server', "Select server");
-define('email_address', "Email address");
-define('subject', "Subject");
-define('message', "Message");
-define('email_must_be_filled_out', "The email address must be filled out.");
-define('subject_must_be_filled_out', "The subject must be filled out.");
-define('message_must_be_filled_out', "The message must be filled out.");
-define('send', "Send");
-define('error', "Error");
-define('info', "Info");
+define('message_has_been_sent', "Köszönjük, hogy kapcsolatba léptél velünk! Az üzeneted megérkezett és e-mailben fogunk rá válaszolni.");
+define('please_describe_your_issue_below', "Kérlek használd az alábbi űrlapot, hogy támogatást igényelhess a játék szerveredhez.<br> Amint lehet válaszolunk.");
+define('select_server', "Válassz egy szervert");
+define('email_address', "E-mail cím");
+define('subject', "Tárgy");
+define('message', "Üzenet");
+define('email_must_be_filled_out', "A e-mail cím kitöltése kötelező.");
+define('subject_must_be_filled_out', "A tárgy kitöltése kötelező.");
+define('message_must_be_filled_out', "Az üzenet kitöltése kötelező.");
+define('send', "Küldés");
+define('error', "Hiba");
+define('info', "Információ");
 ?>

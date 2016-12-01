@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) Copyright (C) 2008 - 2013 The OGP Development Team
+ * Copyright (C) 2008 - 2016 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,7 +22,6 @@
  *
  */
 
-// add_game_home.php
 define('support_email_content', "Ha recibido una petición de soporte de %s (%s).<br><br>Servidor: %s.<br><br>%s");
 define('message_has_been_sent', "Gracias por contactar con nosotros! Su mensaje a sido recibido y será respondido a su dirección de correo electrónico.");
 define('please_describe_your_issue_below', "Por favor use el formulario que hay a continuación para hacer una petición de soporte para su servidor de juegos.<br>Le responderemos tan pronto como nos sea posible.");
