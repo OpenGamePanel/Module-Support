@@ -24,7 +24,7 @@
 
 define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
 define('message_has_been_sent', "Köszönjük, hogy kapcsolatba léptél velünk! Az üzeneted megérkezett és e-mailben fogunk rá válaszolni.");
-define('please_describe_your_issue_below', "Kérlek használd az alábbi űrlapot, hogy támogatást igényelhess a játék szerveredhez.<br> Amint lehet válaszolunk.");
+define('please_describe_your_issue_below', "Kérlek, használd az alábbi űrlapot, hogy támogatást igényelhess a játék szerveredhez.<br> Amint lehet válaszolunk.");
 define('select_server', "Válassz egy szervert");
 define('email_address', "E-mail cím");
 define('subject', "Tárgy");
