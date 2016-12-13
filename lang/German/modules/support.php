@@ -29,10 +29,10 @@ define('select_server', "Wählen Sie einen server");
 define('email_address', "E-Mail-Adresse");
 define('subject', "Betreff");
 define('message', "Nachricht");
-define('email_must_be_filled_out', "The email address must be filled out.");
-define('subject_must_be_filled_out', "The subject must be filled out.");
+define('email_must_be_filled_out', "Die e-Mail-Adresse muss ausgefüllt werden.");
+define('subject_must_be_filled_out', "Der Betreff muss ausgefüllt werden.");
 define('message_must_be_filled_out', "The message must be filled out.");
-define('send', "Send");
-define('error', "Error");
+define('send', "Senden");
+define('error', "Fehler");
 define('info', "Info");
 ?>
