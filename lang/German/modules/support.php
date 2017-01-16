@@ -24,7 +24,7 @@
 
 define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
 define('message_has_been_sent', "Vielen Dank für Ihre Kontaktaufnahme! Ihre Nachricht wurde empfangen und wir werden darauf Antworten per e-Mail.");
-define('please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
+define('please_describe_your_issue_below', "Bitte benutzen Sie das untenstehende Formular, um Unterstützung für Ihren Gameserver anzufordern.<br>Wir werden so schnell wie möglich antworten.");
 define('select_server', "Wählen Sie einen server");
 define('email_address', "E-Mail-Adresse");
 define('subject', "Betreff");
