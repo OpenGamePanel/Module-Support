@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="js/jquery/ui/themes/base/jquery.ui.all.css">
-<script type="text/javascript" src="js/jquery/jquery-1.11.0.min.js"></script>
-<script type="text/javascript" src="js/jquery/ui/jquery-ui-1.10.4.min.js"></script>
 <?php
 /*
  *
