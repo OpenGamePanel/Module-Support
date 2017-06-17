@@ -22,9 +22,9 @@
  *
  */
 
-define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
-define('message_has_been_sent', "Thank you for contacting us! Your message has been received and we will respond to it by email.");
-define('please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
+define('support_email_content', "لقد تلقيت طلبا للدعم من %s (%s).<br> <br> سيرفر : %s.<br> <br> %s");
+define('message_has_been_sent', "أشكركم على الاتصال بنا! تم استلام رسالتك وسنرد عليها عن طريق البريد الإلكتروني.");
+define('please_describe_your_issue_below', "يرجى استخدام النموذج أدناه لطلب الدعم لخادم اللعبة.<br> سنرد في أقرب وقت ممكن.");
 define('select_server', "اختر سيرفر");
 define('email_address', "عنوان البريد الإلكترونى");
 define('subject', "العنوان");
