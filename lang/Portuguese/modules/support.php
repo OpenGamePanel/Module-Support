@@ -22,17 +22,17 @@
  *
  */
 
-define('support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
-define('message_has_been_sent', "Thank you for contacting us! Your message has been received and we will respond to it by email.");
-define('please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
-define('select_server', "Choose a server");
-define('email_address', "Email address");
-define('subject', "Subject");
-define('message', "Message");
-define('email_must_be_filled_out', "The email address must be filled out.");
-define('subject_must_be_filled_out', "The subject must be filled out.");
-define('message_must_be_filled_out', "The message must be filled out.");
-define('send', "Send");
-define('error', "Error");
+define('support_email_content', "Você recebeu uma solicitação de suporte de %s (%s).<br><br>Server: %s.<br><br>%s");
+define('message_has_been_sent', "Obrigado por nos contatar! Sua mensagem foi recebida e nós responderemos por email.");
+define('please_describe_your_issue_below', "Use o formulário abaixo para solicitar suporte para o seu servidor de jogos..<br>Nós responderemos o mais rapidamente possível.");
+define('select_server', "Escolha um servidor");
+define('email_address', "Endereço de e-mail");
+define('subject', "Assunto");
+define('message', "Mensagem");
+define('email_must_be_filled_out', "O endereço de e-mail deve ser preenchido.");
+define('subject_must_be_filled_out', "O assunto deve estar preenchido.");
+define('message_must_be_filled_out', "A mensagem deve ser preenchida.");
+define('send', "Enviar");
+define('error', "Erro");
 define('info', "Info");
 ?>
