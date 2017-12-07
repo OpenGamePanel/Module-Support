@@ -22,17 +22,17 @@
  *
  */
 
-define('support_email_content', "Вы получили запрос на поддержку от %s (%s). <br><br> Сервер: %s. <br><br>%s");
-define('message_has_been_sent', "Благодарим Вас за обращение к нам! Ваше сообщение получено, и мы ответим на него по электронной почте.");
-define('please_describe_your_issue_below', "Пожалуйста, используйте форму ниже, чтобы запросить поддержку для вашего игрового сервера.<br>Мы ответим как можно скорее.");
-define('select_server', "Выбрать сервер");
-define('email_address', "Адрес электронной почты");
-define('subject', "Тема");
-define('message', "Сообщение");
-define('email_must_be_filled_out', "Адрес электронной почты должен быть заполнен.");
-define('subject_must_be_filled_out', "Тема электронной почты должен быть заполнена.");
-define('message_must_be_filled_out', "Сообщение электронной почты должен быть заполнено.");
-define('send', "Отправить");
-define('error', "Ошибка");
-define('info', "Информация");
+define('OGP_LANG_support_email_content', "Вы получили запрос на поддержку от %s (%s). <br><br> Сервер: %s. <br><br>%s");
+define('OGP_LANG_message_has_been_sent', "Благодарим Вас за обращение к нам! Ваше сообщение получено, и мы ответим на него по электронной почте.");
+define('OGP_LANG_please_describe_your_issue_below', "Пожалуйста, используйте форму ниже, чтобы запросить поддержку для вашего игрового сервера.<br>Мы ответим как можно скорее.");
+define('OGP_LANG_select_server', "Выбрать сервер");
+define('OGP_LANG_email_address', "Адрес электронной почты");
+define('OGP_LANG_subject', "Тема");
+define('OGP_LANG_message', "Сообщение");
+define('OGP_LANG_email_must_be_filled_out', "Адрес электронной почты должен быть заполнен.");
+define('OGP_LANG_subject_must_be_filled_out', "Тема электронной почты должен быть заполнена.");
+define('OGP_LANG_message_must_be_filled_out', "Сообщение электронной почты должен быть заполнено.");
+define('OGP_LANG_send', "Отправить");
+define('OGP_LANG_error', "Ошибка");
+define('OGP_LANG_info', "Информация");
 ?>
