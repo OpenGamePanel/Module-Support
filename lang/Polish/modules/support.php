@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) 2008 - 2016 The OGP Development Team
+ * Copyright (C) 2008 - 2017 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,17 +22,17 @@
  *
  */
 
-define('support_email_content', "Odebrano żądanie pomocy z %s (%s).<br><br>Serwer: %s.<br><br>%s");
-define('message_has_been_sent', "Dziękujemy za skontaktowanie się z nami! Twoja wiadomość została odebrana, odpowiemy na adres e-mail.");
-define('please_describe_your_issue_below', "Proszę użyć poniższego formularza, aby zwrócić się o pomoc do serwera gry.<br> Postaramy się odpowiedzieć tak szybko jak to możliwe.");
-define('select_server', "Wybierz serwer");
-define('email_address', "Adres email");
-define('subject', "Temat");
-define('message', "Wiadomość");
-define('email_must_be_filled_out', "Adres e-mail musi być wpisany.");
-define('subject_must_be_filled_out', "Tytuł musi zostać wpisany.");
-define('message_must_be_filled_out', "Wiadomość musi zostać napisana.");
-define('send', "Wyślij");
-define('error', "Błąd");
-define('info', "Informacje");
+define('OGP_LANG_support_email_content', "Odebrano żądanie pomocy z %s (%s).<br><br>Serwer: %s.<br><br>%s");
+define('OGP_LANG_message_has_been_sent', "Dziękujemy za skontaktowanie się z nami! Twoja wiadomość została odebrana, odpowiemy na adres e-mail.");
+define('OGP_LANG_please_describe_your_issue_below', "Proszę użyć poniższego formularza, aby zwrócić się o pomoc do serwera gry.<br> Postaramy się odpowiedzieć tak szybko jak to możliwe.");
+define('OGP_LANG_select_server', "Wybierz serwer");
+define('OGP_LANG_email_address', "Adres email");
+define('OGP_LANG_subject', "Temat");
+define('OGP_LANG_message', "Wiadomość");
+define('OGP_LANG_email_must_be_filled_out', "Adres e-mail musi być wpisany.");
+define('OGP_LANG_subject_must_be_filled_out', "Tytuł musi zostać wpisany.");
+define('OGP_LANG_message_must_be_filled_out', "Wiadomość musi zostać napisana.");
+define('OGP_LANG_send', "Wyślij");
+define('OGP_LANG_error', "Błąd");
+define('OGP_LANG_info', "Informacje");
 ?>

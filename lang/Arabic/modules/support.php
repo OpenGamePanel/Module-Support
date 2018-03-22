@@ -2,7 +2,7 @@
 /*
  *
  * OGP - Open Game Panel
- * Copyright (C) 2008 - 2016 The OGP Development Team
+ * Copyright (C) 2008 - 2017 The OGP Development Team
  *
  * http://www.opengamepanel.org/
  *
@@ -22,17 +22,17 @@
  *
  */
 
-define('support_email_content', "لقد تلقيت طلبا للدعم من %s (%s).<br> <br> سيرفر : %s.<br> <br> %s");
-define('message_has_been_sent', "أشكركم على الاتصال بنا! تم استلام رسالتك وسنرد عليها عن طريق البريد الإلكتروني.");
-define('please_describe_your_issue_below', "يرجى استخدام النموذج أدناه لطلب الدعم لخادم اللعبة.<br> سنرد في أقرب وقت ممكن.");
-define('select_server', "اختر سيرفر");
-define('email_address', "عنوان البريد الإلكترونى");
-define('subject', "العنوان");
-define('message', "الرسالة");
-define('email_must_be_filled_out', "يجب ملء عنوان البريد الإلكتروني.");
-define('subject_must_be_filled_out', "يجب ملء العنوان.");
-define('message_must_be_filled_out', "يجب ملء الرسالة.");
-define('send', "إرسال");
-define('error', "خطأ");
-define('info', "معلومات");
+define('OGP_LANG_support_email_content', "لقد تلقيت طلبا للدعم من %s (%s).<br> <br> سيرفر : %s.<br> <br> %s");
+define('OGP_LANG_message_has_been_sent', "أشكركم على الاتصال بنا! تم استلام رسالتك وسنرد عليها عن طريق البريد الإلكتروني.");
+define('OGP_LANG_please_describe_your_issue_below', "يرجى استخدام النموذج أدناه لطلب الدعم لخادم اللعبة.<br> سنرد في أقرب وقت ممكن.");
+define('OGP_LANG_select_server', "اختر سيرفر");
+define('OGP_LANG_email_address', "عنوان البريد الإلكترونى");
+define('OGP_LANG_subject', "العنوان");
+define('OGP_LANG_message', "الرسالة");
+define('OGP_LANG_email_must_be_filled_out', "يجب ملء عنوان البريد الإلكتروني.");
+define('OGP_LANG_subject_must_be_filled_out', "يجب ملء العنوان.");
+define('OGP_LANG_message_must_be_filled_out', "يجب ملء الرسالة.");
+define('OGP_LANG_send', "إرسال");
+define('OGP_LANG_error', "خطأ");
+define('OGP_LANG_info', "معلومات");
 ?>

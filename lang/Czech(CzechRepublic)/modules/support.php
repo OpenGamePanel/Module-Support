@@ -23,16 +23,16 @@
  */
 
 define('OGP_LANG_support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
-define('OGP_LANG_message_has_been_sent', "Köszönjük, hogy kapcsolatba léptél velünk! Az üzeneted megérkezett és e-mailben fogunk rá válaszolni.");
-define('OGP_LANG_please_describe_your_issue_below', "Kérlek, használd az alábbi űrlapot, hogy támogatást igényelhess a játék szerveredhez.<br> Amint lehet válaszolunk.");
-define('OGP_LANG_select_server', "Válassz egy szervert");
-define('OGP_LANG_email_address', "E-mail cím");
-define('OGP_LANG_subject', "Tárgy");
-define('OGP_LANG_message', "Üzenet");
-define('OGP_LANG_email_must_be_filled_out', "A e-mail cím kitöltése kötelező.");
-define('OGP_LANG_subject_must_be_filled_out', "A tárgy kitöltése kötelező.");
-define('OGP_LANG_message_must_be_filled_out', "Az üzenet kitöltése kötelező.");
-define('OGP_LANG_send', "Küldés");
-define('OGP_LANG_error', "Hiba");
-define('OGP_LANG_info', "Információ");
+define('OGP_LANG_message_has_been_sent', "Děkujeme, že jste nás kontaktovali! Vaše zpráva byla přijata a na ni budeme reagovat emailem.");
+define('OGP_LANG_please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
+define('OGP_LANG_select_server', "Vyberte server");
+define('OGP_LANG_email_address', "Emailová adresa");
+define('OGP_LANG_subject', "Předmět");
+define('OGP_LANG_message', "Zpráva");
+define('OGP_LANG_email_must_be_filled_out', "E-mailová adresa musí být vyplněna.");
+define('OGP_LANG_subject_must_be_filled_out', "Předmět musí být vyplněn.");
+define('OGP_LANG_message_must_be_filled_out', "Zpráva musí být vyplněna.");
+define('OGP_LANG_send', "Poslat");
+define('OGP_LANG_error', "Chyba");
+define('OGP_LANG_info', "Informace");
 ?>
