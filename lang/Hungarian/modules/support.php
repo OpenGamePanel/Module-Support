@@ -29,7 +29,7 @@ define('OGP_LANG_select_server', "Válassz egy szervert");
 define('OGP_LANG_email_address', "E-mail cím");
 define('OGP_LANG_subject', "Tárgy");
 define('OGP_LANG_message', "Üzenet");
-define('OGP_LANG_email_must_be_filled_out', "A e-mail cím kitöltése kötelező.");
+define('OGP_LANG_email_must_be_filled_out', "Az e-mail címet ki kell tölteni.");
 define('OGP_LANG_subject_must_be_filled_out', "A tárgy kitöltése kötelező.");
 define('OGP_LANG_message_must_be_filled_out', "Az üzenet kitöltése kötelező.");
 define('OGP_LANG_send', "Küldés");
