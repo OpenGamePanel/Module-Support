@@ -22,17 +22,17 @@
  *
  */
 
-define('OGP_LANG_support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
-define('OGP_LANG_message_has_been_sent', "Thank you for contacting us! Your message has been received and we will respond to it by email.");
-define('OGP_LANG_please_describe_your_issue_below', "Please use the form below to request support for your game server.<br>We will respond as soon as possible.");
-define('OGP_LANG_select_server', "Choose a server");
-define('OGP_LANG_email_address', "Email address");
-define('OGP_LANG_subject', "Subject");
-define('OGP_LANG_message', "Message");
-define('OGP_LANG_email_must_be_filled_out', "The email address must be filled out.");
-define('OGP_LANG_subject_must_be_filled_out', "The subject must be filled out.");
-define('OGP_LANG_message_must_be_filled_out', "The message must be filled out.");
-define('OGP_LANG_send', "Send");
-define('OGP_LANG_error', "Error");
-define('OGP_LANG_info', "Info");
+define('OGP_LANG_support_email_content', "Olet saanut tukipyynnön osoitteesta %s (%s).<br><br>Palvelin: %s.<br><br>%s");
+define('OGP_LANG_message_has_been_sent', "Kiitos yhteydenotostasi! Viestisi on vastaanotettu ja vastaamme siihen sähköpostitse.");
+define('OGP_LANG_please_describe_your_issue_below', "Käytä alla olevaa lomaketta pyytääksesi pelipalvelimellesi tukea.<br>Vastaamme niin pian kuin mahdollista.");
+define('OGP_LANG_select_server', "Valitse palvelin");
+define('OGP_LANG_email_address', "Sähköpostiosoite");
+define('OGP_LANG_subject', "Aihe");
+define('OGP_LANG_message', "Viesti");
+define('OGP_LANG_email_must_be_filled_out', "Sähköpostiosoite on täytettävä.");
+define('OGP_LANG_subject_must_be_filled_out', "Aihe on täytettävä.");
+define('OGP_LANG_message_must_be_filled_out', "Viesti on täytettävä.");
+define('OGP_LANG_send', "Lähetä");
+define('OGP_LANG_error', "Virhe");
+define('OGP_LANG_info', "Tiedot");
 ?>
