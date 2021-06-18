@@ -22,7 +22,7 @@
  *
  */
 
-define('OGP_LANG_support_email_content', "You have received a support request from %s (%s).<br><br>Server: %s.<br><br>%s");
+define('OGP_LANG_support_email_content', "Támogatási kérelmet kaptál a következőtől %s (%s). <br> <br> Kiszolgáló: %s. <br> <br> %s");
 define('OGP_LANG_message_has_been_sent', "Köszönjük, hogy kapcsolatba léptél velünk! Az üzeneted megérkezett és e-mailben fogunk rá válaszolni.");
 define('OGP_LANG_please_describe_your_issue_below', "Kérlek, használd az alábbi űrlapot, hogy támogatást igényelhess a játék szerveredhez.<br> Amint lehet válaszolunk.");
 define('OGP_LANG_select_server', "Válassz egy szervert");
